@@ -1,10 +1,12 @@
 React bone
 
 usage
-	1. open your great command line prompt program
-	2. git clone https://github.com/Ryan-Willpower/react-bone.git
-	3. npm install
-	4. npm start
+<ol>
+	<li>open your great command line prompt program</li>
+	<li>git clone https://github.com/Ryan-Willpower/react-bone.git</li>
+	<li>npm install</li>
+	<li>npm start</li>
+</ol>
 
 -------------------------------
 file structure
